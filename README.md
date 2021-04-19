@@ -1,6 +1,6 @@
 <div dir = rtl>
 
-# Arabic APIs | واجهات البرمجة العربية
+# Arabic APIs | واجهات عربية لبرمجة التطبيقات
 قائمة تشاركية لجمع الواجهات البرمجية العربية في مكان واحد
 
 - هذه الفكرة مستوحاه من مشروع [Public Apis](https://github.com/public-apis/public-apis)
